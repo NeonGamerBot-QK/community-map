@@ -1,1 +1,2 @@
-console.log("Hello via Bun!");
+import "dotenv/config"
+import express from 'express';
