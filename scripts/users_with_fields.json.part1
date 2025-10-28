@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "U0266FRGP",
+    "name": "zrl",
+    "real_name": "Zach Latta",
+    "location_field": "burlington, vermont!",
+    "school_field": "burlington, vermont!",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0ED28QLW",
+    "name": "orpheus",
+    "real_name": "melody",
+    "location_field": "bay area",
+    "school_field": "bay area",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U3A6Y5BEK",
+    "name": "anniewang",
+    "real_name": "Annie Wang",
+    "location_field": "Berkeley, CA",
+    "school_field": "Berkeley, CA",
+    "phone": "5136686868",
+    "locale": "en-US"
+  },
+  {
+    "id": "U3X783S30",
+    "name": "itsmingjie",
+    "real_name": "Mingjie Jiang",
+    "location_field": "San Francisco 🌉",
+    "school_field": "San Francisco 🌉",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U4QAK9SRW",
+    "name": "matthew",
+    "real_name": "Matthew Stanciu",
+    "location_field": "West Lafayette, Indiana",
+    "school_field": "West Lafayette, Indiana",
+    "phone": "+1 (765) 409-3260",
+    "locale": "en-US"
+  },
+  {
+    "id": "UA70A74B0",
+    "name": "savagecoder77",
+    "real_name": "Rafael Cenzano",
+    "location_field": "Cloudy San Francisco",
+    "school_field": "Cloudy San Francisco",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UARKJATPW",
+    "name": "clairebookworm",
+    "real_name": "Claire Wang",
+    "location_field": "westeros (spiritually in LA, physically in MA)",
+    "school_field": "westeros (spiritually in LA, physically in MA)",
+    "phone": "batman@hackclub.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "UCPRVD7AQ",
+    "name": "awong.sh",
+    "real_name": "Avi W",
+    "location_field": "SF -> Pittsburgh",
+    "school_field": "SF -> Pittsburgh",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UCUFQA3PX",
+    "name": "clayton",
+    "real_name": "Clayton Hickey",
+    "location_field": "Rural PA",
+    "school_field": "Rural PA",
+    "phone": "484-258-9302",
+    "locale": "en-US"
+  },
+  {
+    "id": "UCZ3KTNN6",
+    "name": "jacobhaap",
+    "real_name": "Jacob Haap",
+    "location_field": "Berlin, Germany",
+    "school_field": "Berlin, Germany",
+    "phone": "",
+    "locale": "en-GB"
+  },
+  {
+    "id": "UDK5M9Y13",
+    "name": "cwalker",
+    "real_name": "Chris Walker",
+    "location_field": "Salt Lake City, Utah (usually)",
+    "school_field": "Salt Lake City, Utah (usually)",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UF6HB0449",
+    "name": "kumarabhirup5",
+    "real_name": "Kumar Abhirup",
+    "location_field": "Pune, India",
+    "school_field": "Pune, India",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UFX100CQJ",
+    "name": "sg69926",
+    "real_name": "Shivali Gulati",
+    "location_field": "SF/Bay Area -> Santa Cruz",
+    "school_field": "SF/Bay Area -> Santa Cruz",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UGTQ393RR",
+    "name": "matthewgleich",
+    "real_name": "Matt Gleich",
+    "location_field": "Goffstown New Hampshire",
+    "school_field": "Goffstown New Hampshire",
+    "phone": "01101110 01101111",
+    "locale": "en-US"
+  },
+  {
+    "id": "UHFEGV147",
+    "name": "rishiosaur",
+    "real_name": "Rishi Kothari",
+    "location_field": "mentally, riften and solstheim; physically, toronto and sf",
+    "school_field": "mentally, riften and solstheim; physically, toronto and sf",
+    "phone": "cow@hackclub.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "UJYDFQ2QL",
+    "name": "neel.redkar",
+    "real_name": "Neel Redkar",
+    "location_field": "San Ramon, Bay Area",
+    "school_field": "San Ramon, Bay Area",
+    "phone": "19254485457",
+    "locale": "en-US"
+  },
+  {
+    "id": "UKQ3MM5K3",
+    "name": "damicupcake",
+    "real_name": "Damian",
+    "location_field": "Pasadena, CA",
+    "school_field": "Pasadena, CA",
+    "phone": "(310) 490-9735",
+    "locale": "en-US"
+  },
+  {
+    "id": "UKVF1512Q",
+    "name": "rcatullo",
+    "real_name": "ryan",
+    "location_field": "Spotsylvania -> Palo Alto",
+    "school_field": "Spotsylvania -> Palo Alto",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UL5BM9EFJ",
+    "name": "peterspellingbee",
+    "real_name": "Peter Cao",
+    "location_field": "A quantum superposition of upstate new york, bay area, and central valley",
+    "school_field": "A quantum superposition of upstate new york, bay area, and central valley",
+    "phone": "9165274937",
+    "locale": "en-US"
+  },
+  {
+    "id": "ULC0PCS0J",
+    "name": "sincavageluke",
+    "real_name": "Luke Sincavage",
+    "location_field": "Greenville, South Carolina",
+    "school_field": "Greenville, South Carolina",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "ULLRR0G13",
+    "name": "leeag2022",
+    "real_name": "Lee",
+    "location_field": "Cincinnati",
+    "school_field": "Cincinnati",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UM19V8U79",
+    "name": "montevek",
+    "real_name": "Kai V.",
+    "location_field": "Connecticut...that's all you need to know",
+    "school_field": "Connecticut...that's all you need to know",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UMLQ7BWBB",
+    "name": "linuxmaster127",
+    "real_name": "Sheldon Whitten",
+    "location_field": "Suck Creek MTN, TN",
+    "school_field": "Suck Creek MTN, TN",
+    "phone": "+14235904225",
+    "locale": "en-US"
+  },
+  {
+    "id": "UMPQVJAJF",
+    "name": "heather.nerd",
+    "real_name": "Auden Y",
+    "location_field": "Los Angeles",
+    "school_field": "Los Angeles",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UMUE1FSJY",
+    "name": "ashayp22",
+    "real_name": "Ashay Parikh",
+    "location_field": "Chicago",
+    "school_field": "Chicago",
+    "phone": "847-363-9614",
+    "locale": "en-US"
+  },
+  {
+    "id": "UN1PMGUN8",
+    "name": "jamesjpkerrane",
+    "real_name": "JP Kerrane",
+    "location_field": "Coloraaaaaado, United States",
+    "school_field": "Coloraaaaaado, United States",
+    "phone": "+1 (720)-404-6001",
+    "locale": "es-ES"
+  },
+  {
+    "id": "UN6C43287",
+    "name": "jasonantwiappah",
+    "real_name": "Jason Antwi-Appah",
+    "location_field": "dallas / austin texas!",
+    "school_field": "dallas / austin texas!",
+    "phone": "+1 615-209-8642",
+    "locale": "en-US"
+  },
+  {
+    "id": "UN79ZPYMQ",
+    "name": "garyhtou",
+    "real_name": "Gary Tou",
+    "location_field": "Seattle ☔",
+    "school_field": "Seattle ☔",
+    "phone": "gary@hackclub.com | gary@garytou.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "UN971L2UQ",
+    "name": "cedrichutchings",
+    "real_name": "Cedric Hutchings",
+    "location_field": "B̶l̶a̶c̶k̶s̶b̶u̶r̶g̶,̶ ̶V̶i̶r̶g̶i̶n̶i̶a̶ Burlington, Vermont",
+    "school_field": "B̶l̶a̶c̶k̶s̶b̶u̶r̶g̶,̶ ̶V̶i̶r̶g̶i̶n̶i̶a̶ Burlington, Vermont",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UNJHXHU64",
+    "name": "kevindai02",
+    "real_name": "Kevin Dai",
+    "location_field": "Toronto",
+    "school_field": "Toronto",
+    "phone": "SIGVTALRM",
+    "locale": "en-GB"
+  },
+  {
+    "id": "UR0S2FFHP",
+    "name": "liam.fissell",
+    "real_name": "jeancuff81",
+    "location_field": "tennessee (i hate it here)",
+    "school_field": "tennessee (i hate it here)",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UR2ETB328",
+    "name": "muraterzioglu",
+    "real_name": "Murat Terzioğlu",
+    "location_field": "Izmir, Turkey",
+    "school_field": "Izmir, Turkey",
+    "phone": "",
+    "locale": "en-GB"
+  },
+  {
+    "id": "UR4DMH7PX",
+    "name": "calix.huang1",
+    "real_name": "Calix Huang",
+    "location_field": "bay area",
+    "school_field": "bay area",
+    "phone": "925-332-6127",
+    "locale": "en-US"
+  },
+  {
+    "id": "UR6P49Q79",
+    "name": "kognise",
+    "real_name": "Lexi Mattick",
+    "location_field": "san francisco, california",
+    "school_field": "san francisco, california",
+    "phone": "914-343-0742",
+    "locale": "de-DE"
+  },
+  {
+    "id": "URLCEDT18",
+    "name": "ashish11chawda",
+    "real_name": "Ashish Chawda",
+    "location_field": "Bhilai",
+    "school_field": "Bhilai",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "URP4VU2A0",
+    "name": "rohantaneja05",
+    "real_name": "Rohan Taneja",
+    "location_field": "Toronto / SF",
+    "school_field": "Toronto / SF",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "URR2W8Q9W",
+    "name": "malte",
+    "real_name": "Malte Ian Lauterbach",
+    "location_field": "Mostly everywhere, Western Europe, Middle East, Southern Europe",
+    "school_field": "Mostly everywhere, Western Europe, Middle East, Southern Europe",
+    "phone": "+49 15787987737",
+    "locale": "en-US"
+  },
+  {
+    "id": "URW1A7VD4",
+    "name": "adrianoapj",
+    "real_name": "Adriano Pereira Junior",
+    "location_field": "Londrina, Paraná - Brazil",
+    "school_field": "Londrina, Paraná - Brazil",
+    "phone": "+5543984838116",
+    "locale": "en-US"
+  },
+  {
+    "id": "US6B5SBT5",
+    "name": "jackluo",
+    "real_name": "Jack Luo",
+    "location_field": "California",
+    "school_field": "California",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "US8RBCGTT",
+    "name": "ivybowman",
+    "real_name": "Ivy Bowman (she/they)",
+    "location_field": "Ohio",
+    "school_field": "Ohio",
+    "phone": "‭(513) 616-5877‬",
+    "locale": "en-US"
+  },
+  {
+    "id": "USDQSK8A2",
+    "name": "yestrada.re",
+    "real_name": "Yamilett Estrada-Reyes",
+    "location_field": "chicago / san francisco",
+    "school_field": "chicago / san francisco",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "USNPNJXNX",
+    "name": "23samuel.p",
+    "real_name": "Sam Poder",
+    "location_field": "Berkeley (fmr. Sydney, Burlington & Singapore)",
+    "school_field": "Berkeley (fmr. Sydney, Burlington & Singapore)",
+    "phone": "+1 (341) 766-8260",
+    "locale": "en-GB"
+  },
+  {
+    "id": "USWSNLYUS",
+    "name": "byeongjunm0522",
+    "real_name": "Byeongjun Moon",
+    "location_field": "Beautiful British Columbia",
+    "school_field": "Beautiful British Columbia",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UT3M02GR3",
+    "name": "emmswitmer",
+    "real_name": "Emma",
+    "location_field": "Chicago Area",
+    "school_field": "Chicago Area",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UTW2T1VR6",
+    "name": "fireninja108",
+    "real_name": "Aaron Chan",
+    "location_field": "NYC",
+    "school_field": "NYC",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "UTZBECLA2",
+    "name": "eleeza1234",
+    "real_name": "Eleeza Amin",
+    "location_field": "Liverpool, England! (London out of term time)",
+    "school_field": "Liverpool, England! (London out of term time)",
+    "phone": "number? pi. i like pi. pi are square. pi are round. pie are tasty. my discord is e_lee_za if ya wanna add me",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U010HHA7JMN",
+    "name": "jonathanlei2005",
+    "real_name": "Jonathan Lei",
+    "location_field": "MA",
+    "school_field": "MA",
+    "phone": "jonathan@tensordock.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "U010USZMLSK",
+    "name": "rajan.ag005",
+    "real_name": "Rajan Agarwal",
+    "location_field": "Canada 🇨🇦",
+    "school_field": "Canada 🇨🇦",
+    "phone": "222222222222222222222222222222222",
+    "locale": "en-US"
+  },
+  {
+    "id": "U010WT7CEET",
+    "name": "aaryanj",
+    "real_name": "Aaryan Joharapurkar",
+    "location_field": "Toronto, Canada",
+    "school_field": "Toronto, Canada",
+    "phone": "6479161230",
+    "locale": "en-US"
+  },
+  {
+    "id": "U010XUNLX40",
+    "name": "hsh",
+    "real_name": "Harsh Bajpai",
+    "location_field": "Gurugram, India",
+    "school_field": "Gurugram, India",
+    "phone": "You can dm me :)",
+    "locale": "en-US"
+  },
+  {
+    "id": "U011CFN98K1",
+    "name": "linus33",
+    "real_name": "Linus",
+    "location_field": "Real Seattle",
+    "school_field": "Real Seattle",
+    "phone": "Ask anyone who knows me",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0120JBKKB4",
+    "name": "nicholas.h.chiang",
+    "real_name": "Nicholas Chiang",
+    "location_field": "Palo Alto, CA",
+    "school_field": "Palo Alto, CA",
+    "phone": "6508612723",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0128N09Q8Y",
+    "name": "benjaminashbaugh",
+    "real_name": "Benjamin Ashbaugh",
+    "location_field": "Colorado",
+    "school_field": "Colorado",
+    "phone": "9703636910",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0129BS9Y8L",
+    "name": "subham.karmakar248",
+    "real_name": "Subham Karmakar",
+    "location_field": "Serampore",
+    "school_field": "Serampore",
+    "phone": "USELESS",
+    "locale": "en-US"
+  },
+  {
+    "id": "U012U7V5W22",
+    "name": "mmartinelli",
+    "real_name": "arianna",
+    "location_field": "nashville (formerly vt & the burgh and kfc land 🐔)",
+    "school_field": "nashville (formerly vt & the burgh and kfc land 🐔)",
+    "phone": " ",
+    "locale": "en-US"
+  },
+  {
+    "id": "U012U9KN91T",
+    "name": "nihal1",
+    "real_name": "Nihal Abbu",
+    "location_field": "Research Triangle Park, North Carolina",
+    "school_field": "Research Triangle Park, North Carolina",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U012Z85M4SG",
+    "name": "hsbhatia765",
+    "real_name": "Harmeet Singh",
+    "location_field": "Jabalpur",
+    "school_field": "Jabalpur",
+    "phone": "+16132930741",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0130G4049Y",
+    "name": "alf8aml04",
+    "real_name": "Adrian Lobo",
+    "location_field": "Boca Raton, Florida",
+    "school_field": "Boca Raton, Florida",
+    "phone": "+1 (561) 213-5056",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0135687T6V",
+    "name": "badquark",
+    "real_name": "sm",
+    "location_field": "spain",
+    "school_field": "spain",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013B6CPV62",
+    "name": "cjdenio",
+    "real_name": "Caleb Denio",
+    "location_field": "Burlington, Vermont",
+    "school_field": "Burlington, Vermont",
+    "phone": "1-800-SNK-JAZZ",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013CQTVBNZ",
+    "name": "imamuzzaki",
+    "real_name": "Imamuzzaki Abu Salam",
+    "location_field": "Central Java, Indonesia",
+    "school_field": "Central Java, Indonesia",
+    "phone": "(+62) 851-5645-1441",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013DC0KYC8",
+    "name": "kunal",
+    "real_name": "Kunal Botla",
+    "location_field": "boston/massachusetts",
+    "school_field": "boston/massachusetts",
+    "phone": "kunal@hackclub.com // +1 (617) 792-8685",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013DJAUJBT",
+    "name": "04latifah",
+    "real_name": "Latifah",
+    "location_field": "california",
+    "school_field": "california",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013EBN3QSK",
+    "name": "eoreizy",
+    "real_name": "aster oreizy",
+    "location_field": "Seattle, WA",
+    "school_field": "Seattle, WA",
+    "phone": "4255539082",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013EJC12LX",
+    "name": "actuallytotallynotafa",
+    "real_name": "Wyatt Lake",
+    "location_field": "LA",
+    "school_field": "LA",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013GCKMN56",
+    "name": "sohamb117",
+    "real_name": "Soham Bhattacharya",
+    "location_field": "West Coast Best Coast - Silicon Valley",
+    "school_field": "West Coast Best Coast - Silicon Valley",
+    "phone": "",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U013HRSNUEQ",
+    "name": "msg4satwik",
+    "real_name": "Satwik Panigrahi",
+    "location_field": "Bay Area",
+    "school_field": "Bay Area",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U013QBCLZ8Q",
+    "name": "swarup.tripathy4810",
+    "real_name": "swarup tripathy",
+    "location_field": "Delhi, India",
+    "school_field": "Delhi, India",
+    "phone": "1729",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0145SJS0KT",
+    "name": "ssmoogi",
+    "real_name": "sahana moogi",
+    "location_field": "berkeley / santa clara",
+    "school_field": "berkeley / santa clara",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014C6WHQ3X",
+    "name": "philipstudentemail",
+    "real_name": "Philip Pounds",
+    "location_field": "Memphis Tennesse USA 🇺🇸",
+    "school_field": "Memphis Tennesse USA 🇺🇸",
+    "phone": "901 503 6556",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014E8132DB",
+    "name": "devios",
+    "real_name": "Shubham Panth",
+    "location_field": "Södertälje , Stockholm",
+    "school_field": "Södertälje , Stockholm",
+    "phone": "+46729061011",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014ECRKX2T",
+    "name": "genevievechin6",
+    "real_name": "Genevieve",
+    "location_field": "los angeles 🌴",
+    "school_field": "los angeles 🌴",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014JN6DZ5Z",
+    "name": "yashkarthik95",
+    "real_name": "Yash Karthik",
+    "location_field": "Gurugram",
+    "school_field": "Gurugram",
+    "phone": "000000000000000000000000000000000000000000000000",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014JRY5F9V",
+    "name": "supercolbat",
+    "real_name": "Joey Lent",
+    "location_field": "Dallas, Texas, USA",
+    "school_field": "Dallas, Texas, USA",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014ND5P1N2",
+    "name": "faisal.sayed502",
+    "real_name": "Faisal S",
+    "location_field": "Burlington, Vermont",
+    "school_field": "Burlington, Vermont",
+    "phone": "+1 802 922 6115",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014S76EJ3B",
+    "name": "abigail.fischler",
+    "real_name": "Abby Fischler",
+    "location_field": "LA / NYC / VT",
+    "school_field": "LA / NYC / VT",
+    "phone": "@ me if u need me",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014S7FH6BT",
+    "name": "ayushbite",
+    "real_name": "Ayush",
+    "location_field": "Vishakpatnam",
+    "school_field": "Vishakpatnam",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014V5C88DQ",
+    "name": "emmanuel.haankwenda20",
+    "real_name": "Emmanuel Haankwenda",
+    "location_field": "Lusaka, Zambia",
+    "school_field": "Lusaka, Zambia",
+    "phone": "+260972588687",
+    "locale": "en-US"
+  },
+  {
+    "id": "U014XLYJ5HT",
+    "name": "destructorkill77",
+    "real_name": "Bernardo Garcia",
+    "location_field": "Behind you",
+    "school_field": "Behind you",
+    "phone": "911 or 112 (call at your own expense)",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0155AFL84X",
+    "name": "rebeccaliuyao25",
+    "real_name": "Rebecca Y",
+    "location_field": "boston, ma",
+    "school_field": "boston, ma",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01581HFAGZ",
+    "name": "parkalex380",
+    "real_name": "Alex Park",
+    "location_field": "Houston (metropolitan area), Texas USA",
+    "school_field": "Houston (metropolitan area), Texas USA",
+    "phone": "‪(805) 317-6685‬ / alexp@hackclub.com / me@parkalex.dev / imposter@sus.cx",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015A3JFXDM",
+    "name": "ongzhizheng",
+    "real_name": "Ong Zhi Zheng",
+    "location_field": "penang malaysia",
+    "school_field": "penang malaysia",
+    "phone": "404",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015G4F50AJ",
+    "name": "tetraoxygen",
+    "real_name": "Charlie Welsh",
+    "location_field": "Cupertino",
+    "school_field": "Cupertino",
+    "phone": "5037329528",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015HRC40H4",
+    "name": "onrisky",
+    "real_name": "Carlos Cardona",
+    "location_field": "Colombia",
+    "school_field": "Colombia",
+    "phone": "",
+    "locale": "es-ES"
+  },
+  {
+    "id": "U015MCCBXBP",
+    "name": "cara",
+    "real_name": "Cara Salter",
+    "location_field": "Delightfully chilly Worcester MA",
+    "school_field": "Delightfully chilly Worcester MA",
+    "phone": "",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U015MMJ6XKP",
+    "name": "tanishqsoni49777",
+    "real_name": "Tanishq soni",
+    "location_field": "Home",
+    "school_field": "Home",
+    "phone": "dm",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U015PUGLMM1",
+    "name": "abastolaa",
+    "real_name": "Om Sharma",
+    "location_field": "Pokhara",
+    "school_field": "Pokhara",
+    "phone": "+9779840171292",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015Q82SX37",
+    "name": "ellie",
+    "real_name": "Ellie Little",
+    "location_field": "Texas",
+    "school_field": "Texas",
+    "phone": "+1 832 736 1977",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015R00V6QJ",
+    "name": "replytoyashn",
+    "real_name": "Yash Narain",
+    "location_field": "london",
+    "school_field": "london",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015RMAJR5G",
+    "name": "anthonykung",
+    "real_name": "Anthony Kung",
+    "location_field": "Corvallis <- Oregon <- USA",
+    "school_field": "Corvallis <- Oregon <- USA",
+    "phone": "5412503737",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015SDXHEPR",
+    "name": "pragyarajfb13",
+    "real_name": "Pragya Rajpurohit",
+    "location_field": "BITS Pilani, India",
+    "school_field": "BITS Pilani, India",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015U7YP755",
+    "name": "sswikerdiddell",
+    "real_name": "Eddy",
+    "location_field": "Carmel Indiana",
+    "school_field": "Carmel Indiana",
+    "phone": "911 call at own risk",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015V2PKJ6Q",
+    "name": "nicholasz2510",
+    "real_name": "Nick Zhang",
+    "location_field": "Seattle",
+    "school_field": "Seattle",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015VK9UU9X",
+    "name": "vivitrng",
+    "real_name": "Vivian Truong",
+    "location_field": "a place in australia",
+    "school_field": "a place in australia",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U015X5P6KAM",
+    "name": "kvnyng",
+    "real_name": "Kevin Yang",
+    "location_field": "Beantown",
+    "school_field": "Beantown",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0163SRQJQH",
+    "name": "swarnya246",
+    "real_name": "Swarnya Srivastava",
+    "location_field": "seattle and sometimes the bay",
+    "school_field": "seattle and sometimes the bay",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01656TCN1X",
+    "name": "cookiebotworks",
+    "real_name": "Krishna Sharma",
+    "location_field": "Jodhpur(which is a city in Rajasthan( which is a state of India))",
+    "school_field": "Jodhpur(which is a city in Rajasthan( which is a state of India))",
+    "phone": "(+91) 9828286827",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016D0FAC48",
+    "name": "dwedding2004",
+    "real_name": "Daniel Wedding",
+    "location_field": "Colorado",
+    "school_field": "Colorado",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016P2HE7QR",
+    "name": "dongh6179",
+    "real_name": "Dong Huynh",
+    "location_field": "Florida",
+    "school_field": "Florida",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016S3C7JS2",
+    "name": "zoyash1229",
+    "real_name": "zoya hussain",
+    "location_field": "dallas, texas",
+    "school_field": "dallas, texas",
+    "phone": "+1 (469)-762-9088 | zoya@hackclub.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016XQFHADR",
+    "name": "pateljaival05",
+    "real_name": "Jaival Patel",
+    "location_field": "Canada",
+    "school_field": "Canada",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016Y9GMUJU",
+    "name": "kayleyseow",
+    "real_name": "a.k.a kayley, klee, leafy_green, etc.",
+    "location_field": "My time is split between the Bay Area and a very special city in the midwest. Other times, I can't decide if I'm living in a well-built simulation, or getting lost in a story in my own mind. So physically I'm here, but mentally I'm in la la land.",
+    "school_field": "My time is split between the Bay Area and a very special city in the midwest. Other times, I can't decide if I'm living in a well-built simulation, or getting lost in a story in my own mind. So physically I'm here, but mentally I'm in la la land.",
+    "phone": "you'll know if you know",
+    "locale": "en-US"
+  },
+  {
+    "id": "U016YHUD3E0",
+    "name": "danielgoldenberg101",
+    "real_name": "Daniel Goldenberg",
+    "location_field": "Winter Park, Florida",
+    "school_field": "Winter Park, Florida",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01751C6SA3",
+    "name": "liangelfremont",
+    "real_name": "Angel",
+    "location_field": "bay",
+    "school_field": "bay",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0176N7HS1F",
+    "name": "eleezaxbox",
+    "real_name": "Michael J. Silversaw",
+    "location_field": "Northeastern Scholite City, Isle of Scholite",
+    "school_field": "Northeastern Scholite City, Isle of Scholite",
+    "phone": "Which one?",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U017CJ9RE9K",
+    "name": "riley33chou",
+    "real_name": "Riley Chou",
+    "location_field": "📍SF Bay Area, CA",
+    "school_field": "📍SF Bay Area, CA",
+    "phone": "1-800-iam-rice",
+    "locale": "en-US"
+  },
+  {
+    "id": "U017EPB6LE9",
+    "name": "corgimimihu",
+    "real_name": "Hugo Hu",
+    "location_field": "NYC",
+    "school_field": "NYC",
+    "phone": "6464778119, hugo@hugohu.me",
+    "locale": "en-US"
+  },
+  {
+    "id": "U017FQYPCF5",
+    "name": "mananman23",
+    "real_name": "Manan",
+    "location_field": "New Delhi",
+    "school_field": "New Delhi",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U017JRCBSFQ",
+    "name": "kevinlu.email",
+    "real_name": "Kevin Lu",
+    "location_field": "Santa Clara, CA",
+    "school_field": "Santa Clara, CA",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U017UEMPLKD",
+    "name": "safin.singh",
+    "real_name": "Safin",
+    "location_field": "berkeley",
+    "school_field": "berkeley",
+    "phone": "-1",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0181387V0T",
+    "name": "elinicksic",
+    "real_name": "Eli Nicksic",
+    "location_field": "Texas",
+    "school_field": "Texas",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018210P868",
+    "name": "akashfeb6",
+    "real_name": "Akash Santhosh",
+    "location_field": "Kochi",
+    "school_field": "Kochi",
+    "phone": "+919633872776",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0188JUKTQB",
+    "name": "molyvius",
+    "real_name": "Themistoklis Spanidis",
+    "location_field": "Exotic Kozani, Greece!",
+    "school_field": "Exotic Kozani, Greece!",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018FMCP79R",
+    "name": "aiden.bai05",
+    "real_name": "Aiden Bai",
+    "location_field": "Camas, WA",
+    "school_field": "Camas, WA",
+    "phone": "3604096334",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018GP0L3DM",
+    "name": "samthegreat7526",
+    "real_name": "Saumya",
+    "location_field": "delhi",
+    "school_field": "delhi",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018QP73Z8W",
+    "name": "uditi2005",
+    "real_name": "Uditi",
+    "location_field": "dubai",
+    "school_field": "dubai",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018QV6RUGZ",
+    "name": "abolunthompson",
+    "real_name": "Bolun Thompson",
+    "location_field": "North Country San Diego",
+    "school_field": "North Country San Diego",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U018RDU68D9",
+    "name": "vitorvavolizza",
+    "real_name": "vitor vavolizza",
+    "location_field": "curitiba, brazil",
+    "school_field": "curitiba, brazil",
+    "phone": "",
+    "locale": "pt-BR"
+  },
+  {
+    "id": "U018X3BEGBD",
+    "name": "teland",
+    "real_name": "dnalet",
+    "location_field": "Berkelley",
+    "school_field": "Berkelley",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U0193QF6CEQ",
+    "name": "nilaany",
+    "real_name": "Nilaany",
+    "location_field": "Earth ?",
+    "school_field": "Earth ?",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U019ARP9431",
+    "name": "tarekali15",
+    "real_name": "Tarek Ali",
+    "location_field": "Houston but wanna go to CALI",
+    "school_field": "Houston but wanna go to CALI",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U019PF0KNE6",
+    "name": "bellesee1212",
+    "real_name": "belle",
+    "location_field": "land of the good food :))",
+    "school_field": "land of the good food :))",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U019T5QPJ1F",
+    "name": "ghoshneil2005",
+    "real_name": "Neil Ghosh",
+    "location_field": "Singapore",
+    "school_field": "Singapore",
+    "phone": "+6590174001 (DO NOT CALL ME/MESSAGE ME UNLESS I KNOW YOU)",
+    "locale": "en-US"
+  },
+  {
+    "id": "U019V646DKJ",
+    "name": "dayalsarthak5",
+    "real_name": "Sarthak Dayal",
+    "location_field": "San Antonio",
+    "school_field": "San Antonio",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01ACA3M90C",
+    "name": "igoel.mail",
+    "real_name": "Ishan Goel",
+    "location_field": "West Lafayette, Indiana ~~Redmond, Washington~~",
+    "school_field": "West Lafayette, Indiana ~~Redmond, Washington~~",
+    "phone": "+1 (917) 622-7499",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01AJ65NPC6",
+    "name": "shashwatsingh71",
+    "real_name": "Shashwat Singh",
+    "location_field": "India",
+    "school_field": "India",
+    "phone": "63880303168",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01AVLQJJQY",
+    "name": "sandhu.s.veer",
+    "real_name": "Veer Sandhu",
+    "location_field": "Greater Toronto Area",
+    "school_field": "Greater Toronto Area",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01B0MH2RBL",
+    "name": "lea",
+    "real_name": "Lea Baumgart",
+    "location_field": "Germany",
+    "school_field": "Germany",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01B86P5DUM",
+    "name": "advaithunni2000",
+    "real_name": "Advaith U",
+    "location_field": "Kerala, India",
+    "school_field": "Kerala, India",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01BB2K6APQ",
+    "name": "savioxavier112",
+    "real_name": "Savio Xavier",
+    "location_field": "Exactly one astronomical unit distance from The Sun",
+    "school_field": "Exactly one astronomical unit distance from The Sun",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01BFKL3AE6",
+    "name": "bumblesam2.0",
+    "real_name": "Sam Lee",
+    "location_field": "The Capitalist Korea",
+    "school_field": "The Capitalist Korea",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01BP03JGB1",
+    "name": "sudarshansb143",
+    "real_name": "sudarshan",
+    "location_field": "Rocking Aurangabad, Maharashtra",
+    "school_field": "Rocking Aurangabad, Maharashtra",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01BQBDFUGP",
+    "name": "jeffrey",
+    "real_name": "Jeffrey Harmon",
+    "location_field": "Indiana",
+    "school_field": "Indiana",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01BYQSF5RD",
+    "name": "trilogicworlds",
+    "real_name": "Simon Ilincev",
+    "location_field": "Prague",
+    "school_field": "Prague",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01D6FYHLUW",
+    "name": "ella-",
+    "real_name": "Ella 𓃜 𓃗 𓃚 𓃘",
+    "location_field": "Vermont",
+    "school_field": "Vermont",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01D9DWGEB0",
+    "name": "uanirudhx",
+    "real_name": "a knee",
+    "location_field": "Laniakea Supercluster",
+    "school_field": "Laniakea Supercluster",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01E6N0NHF1",
+    "name": "lola",
+    "real_name": "Karolina Dubiel",
+    "location_field": "425 and 404!",
+    "school_field": "425 and 404!",
+    "phone": "if i don’t respond here try dming on insta @karolidubiel",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01EN23CFNE",
+    "name": "pranavnt",
+    "real_name": "Pranav Teegavarapu",
+    "location_field": "Redmond, WA",
+    "school_field": "Redmond, WA",
+    "phone": "just dm me lol",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01F2BJCDJ7",
+    "name": "theespeon37",
+    "real_name": "Ethan Barker",
+    "location_field": "Stormy LA. Not the sunny one.",
+    "school_field": "Stormy LA. Not the sunny one.",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FAVARYH1",
+    "name": "nilapalmoram",
+    "real_name": "Nila Palmo Ram",
+    "location_field": "Vermont - South India - Dubai - Australia",
+    "school_field": "Vermont - South India - Dubai - Australia",
+    "phone": "+1 8023995560 / nila@hackclub.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FD8451L5",
+    "name": "krohan1202",
+    "real_name": "Rohan Karmakar",
+    "location_field": "Calcutta, India",
+    "school_field": "Calcutta, India",
+    "phone": "9830967168",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FF4SL01J",
+    "name": "lujujose",
+    "real_name": "Juan Gonzalez",
+    "location_field": "socal",
+    "school_field": "socal",
+    "phone": " ",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FGQ5V9L5",
+    "name": "me1926",
+    "real_name": "B Smith",
+    "location_field": "Portland, OR",
+    "school_field": "Portland, OR",
+    "phone": "signal: @m04.01, or matrix: @m04:beeper.com",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FHRTCN78",
+    "name": "fanoulis",
+    "real_name": "Charalampos Fanoulis",
+    "location_field": "Kozani, Greece",
+    "school_field": "Kozani, Greece",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FJ126WBD",
+    "name": "somyalgautam54",
+    "real_name": "Somyal Gautam",
+    "location_field": "Patna,Bihar",
+    "school_field": "Patna,Bihar",
+    "phone": "9123416162",
+    "locale": "en-GB"
+  },
+  {
+    "id": "U01FVPN7V7W",
+    "name": "jckstorm",
+    "real_name": "Horas Saragih",
+    "location_field": "Somewhere in middle of the sea",
+    "school_field": "Somewhere in middle of the sea",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01FW4JBQ3H",
+    "name": "pgkoutsoumanis",
+    "real_name": "Panos Koutsoumanis",
+    "location_field": "Fabulous Penteli, Attica",
+    "school_field": "Fabulous Penteli, Attica",
+    "phone": "",
+    "locale": "en-US"
+  },
+  {
+    "id": "U01G0Q9K998",
+    "name": "sporeballdev",
+    "real_name": "Lux Loff",
+    "location_field": "San Jose, CA -> Shelburne, VT",
+    "school_field": "San Jose, CA -> Shelburne, VT",
+    "phone": "lux@hackclub.com",
+    "locale": "en-US"
+  }
+]
