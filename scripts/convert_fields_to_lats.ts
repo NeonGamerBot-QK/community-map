@@ -1,0 +1,1 @@
+// tl;dr, upload file to openai to get the data in format of {lat,long} + attach extra meta accordingly
