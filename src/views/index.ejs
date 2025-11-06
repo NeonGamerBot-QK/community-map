@@ -8,12 +8,17 @@
 </head>
 
 <body>
-   
+
 </body>
 <script>
-window.on("load", async () => {
-    
-})
+    function getMapData() {
+        return fetch("./mapdata").then(r => r.json())
+    }
+    window.on("load", async () => {
+        // get data
+        const data = await getMapData()
+
+    })
 </script>
 
 </html>
