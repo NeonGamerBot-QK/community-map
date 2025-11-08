@@ -5,19 +5,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Map render</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+    </style>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 
 <body>
-
+    <div id="map"></div>
 </body>
 <script>
     function getMapData() {
         return fetch("./mapdata").then(r => r.json())
     }
-    window.on("load", async () => {
+
+    const map = L.map('map').setView([51.505, -0.09], 13);
+
+    const tileLayer = L.tileLayer(`https://tile.openstreetmap.org/{z}/{x}/{y}.png`, {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap',
+        errorTileUrl: 'https://saahild.com/oneko.gif'
+    }).addTo(map);
+    window.addEventListener("load", async () => {
         // get data
         const data = await getMapData()
+        console.log(data)
 
+        // Add markers
+        data.forEach(item => {
+            L.marker([item.lat, item.long])
+                .addTo(map)
+                .bindPopup(item.name || 'Location');
+        });
     })
 </script>
 
