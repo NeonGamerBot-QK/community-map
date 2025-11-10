@@ -1,4 +1,5 @@
 # community-map
+
 ![](./screenshot.png)
 
 Using some scraping tech and map finding stuff later i am able to get hackclubbers locations ish from PUBLIC DATA!
