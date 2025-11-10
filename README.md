@@ -1,6 +1,9 @@
 # community-map
+![](./screenshot.png)
 
-To install dependencies:
+Using some scraping tech and map finding stuff later i am able to get hackclubbers locations ish from PUBLIC DATA!
+
+### Install deps
 
 ```bash
 bun install

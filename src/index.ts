@@ -3,10 +3,17 @@ import express from "express";
 import { readFileSync } from "fs";
 import path from "path";
 interface Data {
-  lat: number;
-  long: number;
-  username: string;
-  slackid: string;
+  id: string;
+  name: string;
+  real_name: string;
+  location_field: string;
+  school_field: string;
+  phone: string;
+  locale: string;
+  lat?: number;
+  long?: number;
+  confidence?: number;
+  method: string;
 }
 
 const app = express();
@@ -20,9 +27,9 @@ app.get("/", (req, res) => {
 
 app.get("/mapdata", (req, res) => {
   // ability to load partially or for x,y,zoom
-  const currentData: Data[] = JSON.parse(
+  const currentData: Data[] = (JSON.parse(
     readFileSync("./data.json").toString(),
-  ) as Data[];
+  ) as Data[]).filter(d => d.lat && d.long);
   if (req.query.partial) {
     // 1/4 of it
     return res.json(currentData.slice(0, Math.round(currentData.length / 4)));

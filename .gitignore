@@ -2,7 +2,7 @@ node_modules
 .env
 *.txt
 *.txt.bak
-#scripts/*.json
+scripts/*.json
 src/data.json
 data.json
 e.html
