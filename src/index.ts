@@ -27,9 +27,9 @@ app.get("/", (req, res) => {
 
 app.get("/mapdata", (req, res) => {
   // ability to load partially or for x,y,zoom
-  const currentData: Data[] = (JSON.parse(
-    readFileSync("./data.json").toString(),
-  ) as Data[]).filter(d => d.lat && d.long);
+  const currentData: Data[] = (
+    JSON.parse(readFileSync("./data.json").toString()) as Data[]
+  ).filter((d) => d.lat && d.long);
   if (req.query.partial) {
     // 1/4 of it
     return res.json(currentData.slice(0, Math.round(currentData.length / 4)));
